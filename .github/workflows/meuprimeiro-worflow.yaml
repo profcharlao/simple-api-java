@@ -1,4 +1,4 @@
-name: meu-primeiro-workflow
+name: MEU-primeiro-WORKFLOW
 
 on:
   push:
